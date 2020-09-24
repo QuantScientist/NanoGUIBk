@@ -10,3 +10,6 @@
 [submodule "ext/pybind11"]
 	path = ext/pybind11
 	url = https://github.com/pybind/pybind11
+[submodule "ext/libpng"]
+	path = ext/libpng
+	url = https://github.com/mitsuba-renderer/libpng/
